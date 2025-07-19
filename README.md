@@ -28,6 +28,7 @@ Un proyecto funcional que consume la API de OpenWeatherMap para mostrar el clima
 ## 📸 Vista previa
 
 ![alt text](image.png)
+![alt text](image-1.png)
 
 ---
 
